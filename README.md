@@ -10,6 +10,6 @@ Core function of backend, aka the database is finished.
 
 **DVsetting.ipynb** is the setting file used to initialize the database. 
 
-**test.db** is the database is SQLite.
+**test.db** is the database using SQLite.
 
 Folder **websites** and **job_seeker_system** are html files and vue project which has not been fully learned and understood.
